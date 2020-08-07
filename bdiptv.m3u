@@ -459,3 +459,55 @@ https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1,MadniBangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1,ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1,Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/
+#EXTINF:-1, FOX Sport HD 1
+https://austchannel-live.akamafized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 ,GOLTV
+https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/master.m3u8
+#EXTINF:-1,Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 ,Real Madrid TV
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 ,Red Bull TV
+https://i.mjh.nz/nz/tv.redbull.tv.m3u8
+#EXTINF:-1 ,ERT HD HD
+http://212.8.243.157:8089/erthd/video.m3u8?token=test
+#EXTINF:-1 ,A Sport
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
+#EXTINF:-1 ,World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:-1 ,24 Box TV
+http://51.158.190.97/hls/stream.m3u8
+#EXTINF:-1,HBO Asia
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+#EXTINF:-1 ,iFILM English
+https://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
+#EXTINF:-1 ,Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1,Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 ,California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1 ,MOOZ Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 ,MOOZ HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 ,MOOZ Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 ,NRJ Hits TV
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:-1 ,BBC One (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/807
+#EXTINF:-1 ,BBC Two England (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/814
+#EXTINF:-1 ,BBC Four (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/819
+#EXTINF:-1 ,3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 ,Hodhod
+http://51.158.184.234/hls/stream.m3u8
