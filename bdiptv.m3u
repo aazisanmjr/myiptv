@@ -91,10 +91,14 @@ https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 ,SONY PIX
 http://103.205.133.19/hls/sonypix.m3u8
+#EXTINF:-1 ,154.Sony Ten 2 [1]
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 ,SONY TEN 1
 http://103.205.133.19/hls/ten1.m3u8
 #EXTINF:-1 ,Sony Ten 1 HD
 http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
+#EXTINF:-1 ,154.Sony Ten 2 [Extra]
+http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1 ,SONY TEN 2
 http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1 ,SONY TEN 3
