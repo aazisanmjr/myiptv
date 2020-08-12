@@ -9,8 +9,8 @@ https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1,ATN NEWS
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1,BANGLA VISION
-https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u
+#EXTINF:-1 ,Banglavision TV
+https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 #EXTINF:-1 ,News 24
 https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u88
 #EXTINF:-1,BOISHAKHI TV
@@ -93,6 +93,8 @@ http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 http://103.205.133.19/hls/sonypix.m3u8
 #EXTINF:-1 ,SONY TEN 1
 http://103.205.133.19/hls/ten1.m3u8
+#EXTINF:-1 ,Sony Ten 1 HD
+http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
 #EXTINF:-1 ,SONY TEN 2
 http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1 ,SONY TEN 3
@@ -115,6 +117,12 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u
 http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 #EXTINF:-1,Dsports_HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 ,Discovery Realtime
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1 ,Discovery Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1 ,Discovery Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 ,Animal planet
 http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF:-1,Nat Geo Wild
@@ -569,6 +577,8 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1,Sony Max HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index.m3u8
+#EXTINF:-1 ,Fox Action Movies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 ,Star World
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1 ,iFILM English
