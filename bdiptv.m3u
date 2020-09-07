@@ -7,12 +7,22 @@ http://45.249.187.238:8081/hls/live5.m3u8
 http://tv.dflix.live:8082/51/index.m3u8?token=947122546dfd3db6d25684d27ac363a58a02452b-1dfa08f6c21b224325e81fd85411acac-1599466279-1599455479&remote=103.127.7.93
 #EXTINF:-1,Ekattor
 http://45.249.187.238:8081/hls/live6.m3u8
-#EXTINF:-1,DBC NEWS
+#EXTINF:-1,Boishakhi
+http://tv.dflix.live:8082/61/index.m3u8?token=c2e403c38476ef5bf45e6018b880e17aac834243-bf9c5e0c84669f6a390c486619b6da70-1599470380-1599459580&remote=103.127.7.93
+#EXTINF:-1,Mohona TV
+http://tv.dflix.live:8082/50/index.m3u8?token=5641209271cb39457c9783a1f01d40649c498851-089471e651982e6a6f1cf252939ee95a-1599470450-1599459650&remote=103.127.7.93
+#EXTINF:-1,Deepto
 http://45.249.187.238:8081/hls/new22.m3u8
 #EXTINF:-1 ,News 24
 http://45.249.187.238:8081/hls/live4.m3u
+#EXTINF:-1 ,GAAN BANGLA
+http://tv.dflix.live:8082/58/index.m3u8?token=4005fd535c004bdac368f8d1dad7e882cb9b00c8-6883840eaf4dc9cb67d70e1e628309ba-1599470709-1599459909&remote=103.127.7.93
 #EXTINF:-1,ASIAN-TV
 http://45.249.187.238:8081/hls/new4.m3u8
+#EXTINF:-1,DeshTV
+http://tv.dflix.live:8082/9/index.m3u8?token=22cc7476b707b10b161ab0598d8530cfae5780a3-c389ae1bff5268c132d26eb919127a83-1599470643-1599459843&remote=103.127.7.93
+#EXTINF:-1,BANGLA TV
+"http://tv.dflix.live:8082/19/index.m3u8?token=2c52bdea3dd88f34cc3fd01ab94f7a5024fc539e-746191220ff6d170ebabc2e250674baf-1599470515-1599459715&remote=103.127.7.93
 #EXTINF:-1,Jamuna Tv
 http://45.249.187.238:8081/hls/live2.m3u8
 #EXTINF:-1,RTV
@@ -24,11 +34,11 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
 #EXTINF:-1,Ekushey TV
 http://45.249.187.238:8081/hls/new18.m3u8
 #EXTINF:-1,MY TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
+http://45.249.187.238:8081/hls/new5.m3u8
 #EXTINF:-1,Banglavision TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/17.ts
+http://45.249.187.238:8081/hls/new6.m3u8
 #EXTINF:-1,ATN Bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.ts
+http://45.249.187.238:8081/hls/new17.m3u8
 #EXTINF:-1, Anondo Tv
 http://45.249.187.238:8081/hls/new16.m3u8
 #EXTINF:-1,Somoy News
@@ -71,6 +81,8 @@ http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1, .DD Bangla
 http://45.249.187.238:8081/hls/tsl-1.m3u8
+#EXTINF:-1, nick Bangla
+http://tv.dflix.live:8082/55/index.m3u8?token=449f71aa865da4fdbe5a58cf0737b4e5ab281f2f-3546d3506684516db8cd069e6242c701-1599470765-1599459965&remote=103.127.7.93
 #EXTINF:-1,Ekattor HD 
 http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
 #EXTINF:-1, News 24 HD
