@@ -4,31 +4,31 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts
 #EXTINF:-1,GAZI TV
 http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF:-1,Masranga
-http://tv.dflix.live:8082/51/index.m3u8?token=947122546dfd3db6d25684d27ac363a58a02452b-1dfa08f6c21b224325e81fd85411acac-1599466279-1599455479&remote=103.127.7.93
+http://tv.dflix.live:8082/51/index.m3u8?token=86b01278819afcaa4ca24afb22258ffe6f0b5990-61cbbb00354a92e64f8b558c6b23d93f-1599736983-1599726183&remote=103.127.7.179
 #EXTINF:-1,Ekattor
 http://45.249.187.238:8081/hls/live6.m3u8
 #EXTINF:-1,Boishakhi
-http://tv.dflix.live:8082/61/index.m3u8?token=c2e403c38476ef5bf45e6018b880e17aac834243-bf9c5e0c84669f6a390c486619b6da70-1599470380-1599459580&remote=103.127.7.93
+http://tv.dflix.live:8082/61/index.m3u8?token=3782a97125810e3141c35ec3dc9a148bf93b9387-4a846b851e5c0d672833e4bf891f5eca-1599737032-1599726232&remote=103.127.7.179
 #EXTINF:-1,Mohona TV
-http://tv.dflix.live:8082/50/index.m3u8?token=5641209271cb39457c9783a1f01d40649c498851-089471e651982e6a6f1cf252939ee95a-1599470450-1599459650&remote=103.127.7.93
+http://tv.dflix.live:8082/50/index.m3u8?token=779945db4e96d379ee0caecc4f15e67367f30e67-016ead45594e3579fc17a6669f646324-1599737061-1599726261&remote=103.127.7.179
 #EXTINF:-1,Deepto
 http://45.249.187.238:8081/hls/new22.m3u8
 #EXTINF:-1 ,News 24
 http://45.249.187.238:8081/hls/live4.m3u
 #EXTINF:-1 ,GAAN BANGLA
-http://tv.dflix.live:8082/58/index.m3u8?token=4005fd535c004bdac368f8d1dad7e882cb9b00c8-6883840eaf4dc9cb67d70e1e628309ba-1599470709-1599459909&remote=103.127.7.93
+hhttp://tv.dflix.live:8082/58/index.m3u8?token=47afb081e5c413c9afaa83841f25c670c31bcbb7-1ceb200419eda2e2701cca3f6a812ecd-1599737111-1599726311&remote=103.127.7.179
 #EXTINF:-1,ASIAN-TV
 http://45.249.187.238:8081/hls/new4.m3u8
 #EXTINF:-1,DeshTV
-http://tv.dflix.live:8082/9/index.m3u8?token=22cc7476b707b10b161ab0598d8530cfae5780a3-c389ae1bff5268c132d26eb919127a83-1599470643-1599459843&remote=103.127.7.93
+http://tv.dflix.live:8082/9/index.m3u8?token=1b02f4b5f1b779f7b74042f8831c732551d1b05b-df2332b22bce1c508abfea69897ed842-1599737216-1599726416&remote=103.127.7.179
 #EXTINF:-1,BANGLA TV
-"http://tv.dflix.live:8082/19/index.m3u8?token=2c52bdea3dd88f34cc3fd01ab94f7a5024fc539e-746191220ff6d170ebabc2e250674baf-1599470515-1599459715&remote=103.127.7.93
+http://tv.dflix.live:8082/19/index.m3u8?token=179ee255b20f327f2100df5bd901fe3b6134c25c-7c4f58ae3d6e26b141a8401a292682da-1599737253-1599726453&remote=103.127.7.179
 #EXTINF:-1,Jamuna Tv
 http://45.249.187.238:8081/hls/live2.m3u8
 #EXTINF:-1,RTV
 http://45.249.187.238:8081/hls/live1.m3u8
 #EXTINF:-1,NTV
-http://tv.dflix.live:8082/54/index.m3u8?token=922f5efbab2da6f621c3892ce5eb532a3e621922-b21677773e0923a5d438ff06c1da5b0e-1599472619-1599461819&remote=103.127.7.93
+http://tv.dflix.live:8082/54/index.m3u8?token=71c6559bceded102c057080c6f204b9865d3a5e4-26b2671f3aabe9f0dc5187dd99d01a2e-1599737299-1599726499&remote=103.127.7.179
 #EXTINF:-1,NTV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
 #EXTINF:-1,SA TV
@@ -56,8 +56,6 @@ http://45.249.187.238:8081/hls/hdmi2.m3u8
 #EXTINF:-1, Independent
 http://45.249.187.238:8081/hls/hdmi4.m3u8
 #EXTINF:-1, Channel 24 news
-http://tv.dflix.live:8082/5/index.m3u8?token=0b6f614a2a3377da680b33d6cc3bcf9f8bd63a5f-64a5d54ada54c886dffb4fd9e45693f1-1599472740-1599461940&remote=103.127.7.93
-#EXTINF:-1, Channel 24 news
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.ts
 #EXTINF:-1, Channel 9 HD
 http://45.249.187.238:8081/hls/live3.m3u8
@@ -76,7 +74,7 @@ http://45.249.187.238:8081/hls/new7.m3u8
 #EXTINF:-1 ,ZEETV
 http://45.249.187.238:8081/hls/tsl-5.m3u8
 #EXTINF:-1, Star Jalsha HD [Extra]
-http://tv.dflix.live:8082/30/index.m3u8?token=97f4affc4e0745e0b80f6c353a64c9e9392deeca-07700d9e52bfe1ebf278530c2accd0e5-1599466532-1599455732&remote=103.127.7.93
+http://tv.dflix.live:8082/30/index.m3u8?token=8553e2330bef7b87cbf1d286ca8105882312e887-69c76b8cc74423fe69e437716ed4d246-1599737339-1599726539&remote=103.127.7.179
 #EXTINF:-1, Probashi Bangla
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 #EXTINF:-1, 69.Digi Bangla 24
@@ -85,8 +83,8 @@ http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1, .DD Bangla
 http://45.249.187.238:8081/hls/tsl-1.m3u8
-#EXTINF:-1, nick Bangla
-http://tv.dflix.live:8082/55/index.m3u8?token=449f71aa865da4fdbe5a58cf0737b4e5ab281f2f-3546d3506684516db8cd069e6242c701-1599470765-1599459965&remote=103.127.7.93
+#EXTINF:-1, Ekushey TV
+http://tv.dflix.live:8082/65/index.m3u8?token=e4fb7f1ebae9f57c1e43fcb145252397bc8dcccd-a47e61756e52b4465dd39a7905ce1250-1599737368-1599726568&remote=103.127.7.179
 #EXTINF:-1,Ekattor HD 
 http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
 #EXTINF:-1, News 24 HD
