@@ -1,78 +1,84 @@
 #EXTM3U
 #EXTINF:-1,BTV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts
+http://45.249.187.238:8081/hls/new24.m3u8
+#EXTINF:-1, Channel 9 HD
+http://45.249.187.238:8081/hls/live3.m3u8
 #EXTINF:-1,GAZI TV
 http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF:-1,Masranga
-http://tv.dflix.live:8082/51/index.m3u8?token=86b01278819afcaa4ca24afb22258ffe6f0b5990-61cbbb00354a92e64f8b558c6b23d93f-1599736983-1599726183&remote=103.127.7.179
+http://aklivetv.com:8080/masranga/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ekattor
 http://45.249.187.238:8081/hls/live6.m3u8
+#EXTINF:-1, Channel I HD
+http://45.249.187.238:8081/hls/live7.m3u8
+#EXTINF:-1,RTV
+http://45.249.187.238:8081/hls/live1.m3u8
 #EXTINF:-1,Boishakhi
 http://tv.dflix.live:8082/61/index.m3u8?token=3782a97125810e3141c35ec3dc9a148bf93b9387-4a846b851e5c0d672833e4bf891f5eca-1599737032-1599726232&remote=103.127.7.179
 #EXTINF:-1,Mohona TV
 http://tv.dflix.live:8082/50/index.m3u8?token=779945db4e96d379ee0caecc4f15e67367f30e67-016ead45594e3579fc17a6669f646324-1599737061-1599726261&remote=103.127.7.179
-#EXTINF:-1,Deepto
-http://45.249.187.238:8081/hls/new22.m3u8
-#EXTINF:-1 ,News 24
-http://45.249.187.238:8081/hls/live4.m3u
 #EXTINF:-1 ,GAAN BANGLA
 hhttp://tv.dflix.live:8082/58/index.m3u8?token=47afb081e5c413c9afaa83841f25c670c31bcbb7-1ceb200419eda2e2701cca3f6a812ecd-1599737111-1599726311&remote=103.127.7.179
+#EXTINF:-1 ,News 24
+http://45.249.187.238:8081/hls/live4.m3u
 #EXTINF:-1,ASIAN-TV
 http://45.249.187.238:8081/hls/new4.m3u8
+#EXTINF:-1,Disney
+http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1,DeshTV
 http://tv.dflix.live:8082/9/index.m3u8?token=1b02f4b5f1b779f7b74042f8831c732551d1b05b-df2332b22bce1c508abfea69897ed842-1599737216-1599726416&remote=103.127.7.179
 #EXTINF:-1,BANGLA TV
 http://tv.dflix.live:8082/19/index.m3u8?token=179ee255b20f327f2100df5bd901fe3b6134c25c-7c4f58ae3d6e26b141a8401a292682da-1599737253-1599726453&remote=103.127.7.179
 #EXTINF:-1,Jamuna Tv
 http://45.249.187.238:8081/hls/live2.m3u8
-#EXTINF:-1,RTV
-http://45.249.187.238:8081/hls/live1.m3u8
 #EXTINF:-1,NTV
 http://tv.dflix.live:8082/54/index.m3u8?token=71c6559bceded102c057080c6f204b9865d3a5e4-26b2671f3aabe9f0dc5187dd99d01a2e-1599737299-1599726499&remote=103.127.7.179
 #EXTINF:-1,NTV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+https://edge4.bioscopelive.com/hls/anonymous/tPm7cLuEAaKZDuedPtDiOQ/1600939975/ntv_hi/index.m3u8
+#EXTINF:-1,GAAN Bangla
+https://edge4.bioscopelive.com/hls/anonymous/9SooK1Pd_JFD5EXx55KMkw/1600940338/gaan_bangla_hi/index.m3u8
+#EXTINF:-1,ATN Bangla
+https://edge4.bioscopelive.com/hls/anonymous/xZnzq-JY6QtTOtqH_UvPfg/1600940276/atn_bangla_hi/index.m3u8
 #EXTINF:-1,SA TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
 #EXTINF:-1,Ekushey TV
 http://45.249.187.238:8081/hls/new18.m3u8
 #EXTINF:-1,MY TV
 http://45.249.187.238:8081/hls/new5.m3u8
+#EXTINF:-1,Anondo TV
+https://edge4.bioscopelive.com/hls/anonymous/QNkXBpH4YZv9JyYqK2m3nQ/1600940170/ananda_tv_hi/1600936581000.ts
 #EXTINF:-1,Banglavision TV
 http://45.249.187.238:8081/hls/new6.m3u8
-#EXTINF:-1,ATN Bangla
-http://45.249.187.238:8081/hls/new17.m3u8
-#EXTINF:-1, Anondo Tv
+#EXTINF:-1, Nagorik Tv
 http://45.249.187.238:8081/hls/new16.m3u8
 #EXTINF:-1,Somoy News
 http://45.249.187.238:8081/hls/hdmi2.m3u8
-#EXTINF:-1 ,Iqraa TV (Live Hajj)
-http://45.249.187.238:8081/hls/new11.m3u8
-#EXTINF:-1 ,Hungama TV
-http://stream-e30453a4b.nmbs.top/m3u/Kids/1f3e9e6679.m3u8
-#EXTINF:-1 ,News 24 HD
-http://45.249.187.238:8081/hls/live4.m3u8
 #EXTINF:-1, Shomoy TV
 http://45.249.187.238:8081/hls/hdmi2.m3u8
 #EXTINF:-1, Independent
 http://45.249.187.238:8081/hls/hdmi4.m3u8
-#EXTINF:-1, Channel 24 news
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.ts
-#EXTINF:-1, Channel 9 HD
-http://45.249.187.238:8081/hls/live3.m3u8
+#EXTINF:-1, Channel 24
+https://edge4.bioscopelive.com/hls/anonymous/SxlYTWBr0j2bamQPb7AXHQ/1600940118/channel_24_hi/index.m3u8
 #EXTINF:-1 ,DURONTO TV
 http://45.249.187.238:8081/hls/new3.m3u8
 #EXTINF:-1, JAMUNA TV
 http://45.249.187.238:8081/hls/live2.m3u8
-#EXTINF:-1, Channel I HD
-http://45.249.187.238:8081/hls/live7.m3u8
-#EXTINF:-1, RTV HD
-http://45.249.187.238:8081/hls/live1.m3u8
+#EXTINF:-1 ,Star Jalsha HD
+http://aklivetv.com:8080/starjalsha/tracks-v1a1/2020/09/24/08/25/31-06000.ts
 #EXTINF:-1 ,Star Jalsha HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 #EXTINF:-1,SANGEET-BANGLA
 http://45.249.187.238:8081/hls/new7.m3u8
 #EXTINF:-1 ,ZEETV
 http://45.249.187.238:8081/hls/tsl-5.m3u8
+#EXTINF:-1 ,QXM
+http://45.249.187.238:8081/hls/new23.m3u8
+#EXTINF:-1 ,Masti TV
+http://45.249.187.238:8081/hls/new12.m3u8
+#EXTINF:-1,Al Jajeera
+http://45.249.187.238:8081/hls/new17.m3u8
+#EXTINF:-1,Lotus Macao
+http://45.249.187.238:8081/hls/new22.m3u8
 #EXTINF:-1, Star Jalsha HD [Extra]
 http://tv.dflix.live:8082/30/index.m3u8?token=8553e2330bef7b87cbf1d286ca8105882312e887-69c76b8cc74423fe69e437716ed4d246-1599737339-1599726539&remote=103.127.7.179
 #EXTINF:-1, Probashi Bangla
@@ -81,45 +87,61 @@ http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/digibangla.stream/live-orgin/digibangla.stream/chunks.m3u8
 #EXTINF:-1, Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
-#EXTINF:-1, .DD Bangla
+#EXTINF:-1, .DiscoveryHD Bangla
 http://45.249.187.238:8081/hls/tsl-1.m3u8
+#EXTINF:-1 ,Iqraa TV (Live Hajj)
+http://45.249.187.238:8081/hls/new11.m3u8
 #EXTINF:-1, Ekushey TV
 http://tv.dflix.live:8082/65/index.m3u8?token=e4fb7f1ebae9f57c1e43fcb145252397bc8dcccd-a47e61756e52b4465dd39a7905ce1250-1599737368-1599726568&remote=103.127.7.179
-#EXTINF:-1,Ekattor HD 
-http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
-#EXTINF:-1, News 24 HD
-http://45.249.187.238:8081/hls/live4.m3u8
 #EXTINF:-1, Zee Bangla HD 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-#EXTINF:-1 ,&TV
-http://45.249.187.238:8081/hls/tsl-6.m3u8
 #EXTINF:-1,STARGOLD 2
 http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF:-1 ,&PICTURES
 http://45.249.187.238:8081/hls/tsl-2.m3u8
 #EXTINF:-1 ,STAR MOVIES
 http://45.249.187.238:8081/hls/tsl-8.m3u8
+#EXTINF:-1 ,CN
+http://45.249.187.238:8081/hls/new14.m3u8
 #EXTINF:-1, Sony Ath
 http://tv.dflix.live:8082/33/index.m3u8?token=f10bdc8e4c77afa2f69f945a8c3872e91be691de-ee9386216bbc4b29217a3b33073407af-1599466470-1599455670&remote=103.127.7.93
+#EXTINF:-1, Sony PIX
+http://45.249.187.238:8081/hls/new21.m3u8
+#EXTINF:-1, Sony PIX
+http://aklivetv.com:8080/sonysix/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sony ESPN
+http://aklivetv.com:8080/sonyespn/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sony TEN 1
+http://aklivetv.com:8080/sonyten1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sony TEN 2
+http://aklivetv.com:8080/sonyten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sony TEN 3
+http://aklivetv.com:8080/sonyten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Star Gold HD [Extra]
 http://103.214.202.218:8081/live/stargold/chunks.m3u8
 #EXTINF:-1, Star Plus 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
-#EXTINF:-1 ,AXN movie
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
-#EXTINF:-1, H
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
+#EXTINF:-1, ColorsHD
+http://45.249.187.238:8081/hls/live2.m3u8
+#EXTINF:-1 ,&TV
+http://45.249.187.238:8081/hls/tsl-6.m3u8
 #EXTINF:-1, Colors Bangla HD [Extra]
 http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
+#EXTINF:-1,Sony SAB HD
+http://45.249.187.238:8081/hls/tsl-4.m3u8
 #EXTINF:-1 ,Independent
 http://45.249.187.238:8081/hls/hdmi4.m3u8
+#EXTINF:-1 ,PTV Sports
+http://45.249.187.238:8081/hls/hdmi3.m3u8
+#EXTINF:-1 ,PTV Sports
+http://aklivetv.com:8080/ptvsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1, Eneter10 Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
 #EXTINF:-1, MN movie
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
-#EXTINF:-1, Zee Bangla HD
+#EXTINF:-1, Bijoy Tv
 http://45.249.187.238:8081/hls/new8.m3u8
 #EXTINF:-1,Zee TV HD USA
 http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
@@ -131,16 +153,22 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 #EXTINF:-1, Zee Anmol Cinama
 https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
+#EXTINF:-1 ,AXN movie
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
+#EXTINF:-1, H
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
 #EXTINF:-1, Colors
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
+#EXTINF:-1 ,UTV Action
+http://45.249.187.238:8081/hls/tsl-7.m3u8
 #EXTINF:-1, Colors HD
 http://heela.ddns.net:2700/live/sonyindia/index.m3u8
 #EXTINF:-1,Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
-#EXTINF:-1 ,Star Sports Select 1 HD
+#EXTINF:-1 ,Star Sports Select 2 HD
 http://45.249.187.238:8081/hls/new2.m3u8
 #EXTINF:-1 ,STAR SPORTS 1HD
-http://45.249.187.238:8081/hls/new2.m3u8
+http://45.249.187.238:8081/hls/new1.m3u8
 #EXTINF:-1 ,Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 #EXTINF:-1 ,Geo Super
@@ -155,8 +183,6 @@ http://45.249.187.238:8081/hls/new2.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
 #EXTINF:-1 ,Sony Aath
 http://103.205.133.14/hls/sony8.m3u8
-#EXTINF:-1,Sony SAB HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 #EXTINF:-1 ,Sony Yay
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 #EXTINF:-1 ,Disney Channel india
@@ -187,8 +213,6 @@ http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1, FOX Movies
 http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
-#EXTINF:-1 ,UTV Action
-http://45.249.187.238:8081/hls/tsl-7.m3u8
 #EXTINF:-1 ,Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1, Manoranjan Movies
@@ -443,8 +467,6 @@ http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.sm
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1 ,DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1,iptvtools_450
-http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1,Tamil Visoin
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1,Thanthi Origin
