@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 ,GTV
-http://176.9.111.110:25461/live/user/user/31.m3u8
-#EXTINF:-1 ,GTV
 http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF:-1 ,CHANNEL 9
 http://45.249.187.238:8081/hls/live3.m3u8
@@ -13,7 +11,7 @@ http://45.249.187.238:8081/hls/live0.m3u8
 http://45.249.187.238:8081/hls/live7.m3u8
 #EXTINF:-1 ,NEWS24
 http://45.249.187.238:8081/hls/live4.m3u8
-#EXTINF:-1 ,JAMUNATV
+#EXTINF:-1 ,Colors
 http://45.249.187.238:8081/hls/live2.m3u8
 #EXTINF:-1 ,ZEETV
 http://45.249.187.238:8081/hls/tsl-5.m3u8
@@ -27,7 +25,7 @@ http://45.249.187.238:8081/hls/tsl-2.m3u8
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1 ,INDEPENDENT-TV
 http://45.249.187.238:8081/hls/hdmi4.m3u8
-#EXTINF:-1 ,ANIMAL PLANET HD
+#EXTINF:-1 ,DISCOVERY HD
 http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF:-1 ,PTV SPORTS
 http://45.249.187.238:8081/hls/hdmi3.m3u8
@@ -45,17 +43,17 @@ http://45.249.187.238:8081/hls/new12.m3u8
 http://45.249.187.238:8081/hls/new16.m3u8
 #EXTINF:-1 ,ASIAN-TV
 http://45.249.187.238:8081/hls/new4.m3u8
-#EXTINF:-1 ,ZEE-BANGLA
+#EXTINF:-1 ,BIJOY TV
 http://45.249.187.238:8081/hls/new8.m3u8
 #EXTINF:-1 ,CNN
 http://45.249.187.238:8081/hls/new19.m3u8
-#EXTINF:-1 ,ATN-BANGLA
+#EXTINF:-1 ,AL JAJERA
 http://45.249.187.238:8081/hls/new17.m3u8
 #EXTINF:-1 ,hjdk
 http://45.249.187.238:8081/hls/new20.m3u8
-#EXTINF:-1 ,BBC-WORLD
+#EXTINF:-1 ,POGO
 http://45.249.187.238:8081/hls/new18.m3u8
-#EXTINF:-1 ,FILMON TV
+#EXTINF:-1 ,LIVE HAZZ
 http://45.249.187.238:8081/hls/new15.m3u8
 #EXTINF:-1 ,IQRAA TV
 http://45.249.187.238:8081/hls/new11.m3u8
@@ -65,11 +63,11 @@ http://45.249.187.238:8081/hls/new10.m3u8
 http://45.249.187.238:8081/hls/new9.m3u8
 #EXTINF:-1 ,9XM
 http://45.249.187.238:8081/hls/new23.m3u8
-#EXTINF:-1 ,DBC NEWS
+#EXTINF:-1 ,MNs
 http://45.249.187.238:8081/hls/new22.m3u8
-#EXTINF:-1 ,BTV
+#EXTINF:-1 ,SONY PIX
 http://45.249.187.238:8081/hls/new21.m3u8
-#EXTINF:-1 ,MOVIES NOW
+#EXTINF:-1 ,HBO
 http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF:-1 ,CN
 http://45.249.187.238:8081/hls/new14.m3u8
@@ -79,7 +77,7 @@ http://45.249.187.238:8081/hls/new5.m3u8
 http://45.249.187.238:8081/hls/new6.m3u8
 #EXTINF:-1 ,SANGEET-BANGLA
 http://45.249.187.238:8081/hls/new7.m3u8
-#EXTINF:-1,SKYNET SPORTS-1
+#EXTINF:-1,SKY SPORTS SELECT-1
 http://45.249.187.238:8081/hls/new1.m3u8
 #EXTINF:-1 ,STAR SPORTS-2
 http://45.249.187.238:8081/hls/new2.m3u8
@@ -87,17 +85,10 @@ http://45.249.187.238:8081/hls/new2.m3u8
 http://45.249.187.238:8081/hls/new3.m3u8
 #EXTINF:-1,Masranga
 http://aklivetv.com:8080/masranga/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, Shomoy TV
 http://45.249.187.238:8081/hls/hdmi2.m3u8
 #EXTINF:-1, Independent
 http://45.249.187.238:8081/hls/hdmi4.m3u8
-#EXTINF:-1, Channel 24
-https://edge4.bioscopelive.com/hls/anonymous/SxlYTWBr0j2bamQPb7AXHQ/1600940118/channel_24_hi/index.m3u8
-#EXTINF:-1 ,DURONTO TV
-http://45.249.187.238:8081/hls/new3.m3u8
-#EXTINF:-1, JAMUNA TV
-http://45.249.187.238:8081/hls/live2.m3u8
 #EXTINF:-1 ,Star Jalsha HD
 http://aklivetv.com:8080/starjalsha/tracks-v1a1/2020/09/24/08/25/31-06000.ts
 #EXTINF:-1 ,Star Jalsha HD
