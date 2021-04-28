@@ -4,7 +4,10 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #EXTM3U
 #EXTINF:-1,ATN Bangla
 http://103.205.133.19/hls/atnbangla.m3u8
-
+#EXTINF:-1 ,IN: SONY TEN 2
+http://103.205.133.19/hls/ten2.m3u8
+#EXTINF:-1 ,IN: SONY TEN 3
+http://103.205.133.19/hls/ten3.m3u8
 
 #EXTINF:-1,ATN News**
 http://103.205.133.19/hls/atnnews.m3u8
@@ -19,10 +22,12 @@ http://103.205.133.19/hls/banglavision.m3u8
 http://103.205.133.19/hls/banglatv.m3u8
 
 
-
+#EXTINF:-1 ,DBC News
+http://103.205.133.19/hls/dbcnews.m3u8
 #EXTINF:-1,BTV World**
 http://103.205.133.19/hls/btvworld.m3u8
-
+#EXTINF:-1 ,Sony Ten 1
+http://103.205.133.19/hls/ten1.m3u8
 #EXTINF:-1,BTV**
 http://103.205.133.19/hls/btv.m3u8
 #EXTINF:-1,Channel 24***
@@ -55,6 +60,8 @@ http://103.205.133.19/hls/rtv.m3u8
 http://103.205.133.19/hls/satv.m3u8
 #EXTINF:-1,Shomoy TV
 http://103.205.133.19/hls/somoy.m3u8
+#EXTINF:-1 ,Movie kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.205.133.19/hls/zeebangla.m3u8
 #EXTINF:-1,Ruposhi Bangla
@@ -67,10 +74,18 @@ http://103.205.133.19/hls/banglatime.m3u8
 http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1,ZEE TV SD
 http://103.205.133.19/hls/zeetv.m3u8
+#EXTINF:-1 ,TLC English
+http://103.205.133.19/hls/tlc.m3u8
+#EXTINF:-1 ,Zee Cinema
+http://103.205.133.19/hls/zeecinema.m3u8
 #EXTINF:-1,Star Bharat
 http://103.205.133.19/hls/starbharat.m3u8
+#EXTINF:-1 ,9XM
+http://103.205.133.19/hls/9xm.m3u8
 #EXTINF:-1,& Pictures
 http://103.205.133.19/hls/andpicture.m3u8
+#EXTINF:-1 ,& TV
+http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1,B4U Movies
 http://103.205.133.19/hls/b4umovies.m3u8
 #EXTINF:-1,Wow Cinema
